@@ -1,0 +1,3 @@
+# Example of command used to run prokka on metagenomes from each day for each cage
+
+/project/6003890/coglxy/galaxy-21.01/database/dependencies/_conda/envs/__prokka@1.14.6/bin/prokka --cpus 8 --quiet --outdir outdir --prefix prokka --increment 1 --gffver 3 --mincontig 200 --kingdom Bacteria --gcode 11 --metagenome --evalue 1e-06 /project/6003890/coglxy/galaxy-21.01/database/files/096/dataset_96818.dat
