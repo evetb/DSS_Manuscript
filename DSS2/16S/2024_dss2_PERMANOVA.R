@@ -257,6 +257,13 @@ write_xlsx(as.data.frame(Permadisp_RMMC_hs_wu(Whole)), "Whole_Permadisp_hs_wu.xl
 write_xlsx(as.data.frame(Permadisp_RMMC_hs_uu(Whole)), "Whole_Permadisp_hs_uu.xlsx")
 write_xlsx(as.data.frame(Permadisp_RMMC_hs_jc(Whole)), "Whole_Permadisp_hs_jc.xlsx")
 
+### Male, Whole -----------------------------------------------------------
+
+write_xlsx(as.data.frame(Permadisp_RMMC_hs_bc(M.Whole)), "M.Whole_Permadisp_hs_bc.xlsx")
+write_xlsx(as.data.frame(Permadisp_RMMC_hs_wu(M.Whole)), "M.Whole_Permadisp_hs_wu.xlsx")
+write_xlsx(as.data.frame(Permadisp_RMMC_hs_uu(M.Whole)), "M.Whole_Permadisp_hs_uu.xlsx")
+write_xlsx(as.data.frame(Permadisp_RMMC_hs_jc(M.Whole)), "M.Whole_Permadisp_hs_jc.xlsx")
+
 # PERMANOVA ------------------------------------------------------------------------------------------
 
 # Creating a PERMANOVA function (code adapted from Taguer, 2021)
