@@ -1,1 +1,1 @@
-This folder includes all of the supplementary figures associated with the manuscript described in the main folder, "DSS_Manuscript".
+This folder includes all of the supplementary figures associated with the manuscript "Dextran sodium sulfate-induced colitis alters the proportion and composition of replicating gut bacteria". The preprint of this manuscript can be found at: https://www.biorxiv.org/content/10.1101/2024.02.01.578403v3
